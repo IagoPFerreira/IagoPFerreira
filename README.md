@@ -24,7 +24,7 @@
   <img align="center" alt="Iago-React" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Iago-Redux" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Iago-Markdown" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
-  <img align="center" alt="Iago-Slack" height="50" width="10%" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+  <img align="center" alt="Iago-Slack" height="50" width="6%" src="https://img.icons8.com/color/48/000000/bootstrap.png">
 </section>
  
  ### Back-end
@@ -40,16 +40,16 @@
 
 <section style="align-items: center; height: 30vh; width: 70%; ">
   <img align="center" alt="Iago-Jest" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="Iago-Jest" height="50" width="10%" src="https://testing-library.com/img/octopus-128x128.png"/>
+  <img align="center" alt="Iago-Jest" height="50" width="6%" src="https://testing-library.com/img/octopus-128x128.png"/>
 </section>
   
  ### Tools
 
 <section style="align-items: center; height: 30vh; width: 70%; ">
-  <img align="center" alt="Iago-Slack" height="50" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Iago-VSCode" height="50" width="8%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-  <img align="center" alt="Iago-Slack" height="50" width="8%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg">
-  <img align="center" alt="Iago-Slack" height="50" width="8%" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+  <img align="center" alt="Iago-Slack" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Iago-VSCode" height="50" width="6%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+  <img align="center" alt="Iago-Slack" height="50" width="6%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg">
+  <img align="center" alt="Iago-Slack" height="50" width="6%" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
 </section>
   
 ---
