@@ -40,7 +40,7 @@
 
 <section style="align-items: center; height: 30vh; width: 70%; ">
   <img align="center" alt="Iago-Jest" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="Iago-Jest" height="50" width="6%" src="https://testing-library.com/img/octopus-128x128.png"/>
+  <img align="center" alt="Iago-RTL" height="50" width="6%" src="https://testing-library.com/img/octopus-128x128.png"/>
 </section>
   
  ### Tools
