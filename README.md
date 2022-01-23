@@ -17,32 +17,30 @@
   ### Front-end
   
  <section style="align-items: center; height: 30vh; width: 70%; ">
-  
-  <img align="center" alt="Iago-HTML" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Iago-CSS" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Iago-Js" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Iago-React" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Iago-Redux" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Iago-Markdown" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+  <img align="center" alt="Iago-HTML" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Iago-CSS" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Iago-Js" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Iago-React" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Iago-Redux" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Iago-Markdown" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
   <img align="center" alt="Iago-Slack" height="50" width="6%" src="https://img.icons8.com/color/48/000000/bootstrap.png">
 </section>
  
  ### Back-end
 
 <section style="align-items: center; height: 30vh; width: 70%; ">
-  <img align="center" alt="Iago-Python"height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Iago-MySQL" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Iago-Mongo" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Iago-Nodejs" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Tech-heroku" height="50" width="6%" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" />
+  <img align="center" alt="Iago-Python"height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Iago-MySQL" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Iago-Mongo" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Iago-Nodejs" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </section>
 
  ### Tests
 
 <section style="align-items: center; height: 30vh; width: 70%; ">
-  <img align="center" alt="Iago-Jest" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Iago-Jest" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Iago-RTL" height="50" width="6%" src="https://testing-library.com/img/octopus-128x128.png"/>
-  <img align="center" alt="Tech-Mocha" height="50" width="18%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" />
+  <img align="center" alt="Tech-Mocha" height="50" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" />
   <img align="center" alt="Tech-Chai" height="50" width="6%" src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4" />
   <img align="center" alt="Tech-Sinon" height="50" width="6%" src="https://sinonjs.org/assets/images/logo.png" />
 </section>
@@ -54,6 +52,7 @@
   <img align="center" alt="Iago-VSCode" height="50" width="6%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
   <img align="center" alt="Iago-Slack" height="50" width="6%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg">
   <img align="center" alt="Iago-Trello" height="50" width="6%" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+  <img align="center" alt="Tech-heroku" height="50" width="6%" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" />
 </section>
   
 ---
