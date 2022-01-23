@@ -3,7 +3,7 @@
 
 - 💡 &nbsp;I'm a FullStack development student at Trybe;
 - 🔭 I’m currently working on Trybe;
-- 🌱 I’m currently learning Node.js;
+- 🌱 I’m currently learning Python;
 - 😄 Pronouns: He/Him;
 
 <section>
