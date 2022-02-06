@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Trybe;
 - 🌱 I’m currently learning Python;
 - 😄 Pronouns: He/Him;
+- 📃 <a href="https://iagopferreira.github.io/portfolio-react/" target="_blank">Check my Portfolio</a>
 
 <section>
   <a href="https://github.com/IagoPFerreira">
@@ -64,6 +65,7 @@
  
  
 </section>
+
 
 ## Thank you for visiting my profile. :gem:
 ![Visitor Count](https://profile-counter.glitch.me/IagoPFerreira/count.svg)
