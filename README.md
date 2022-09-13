@@ -3,7 +3,7 @@
 
 - 💡 &nbsp;I'm a FullStack development student at Trybe;
 - 🔭 I’m currently working on Trybe;
-- 🌱 I’m currently learning Python;
+- 🌱 I’m currently learning TypeScript;
 - 😄 Pronouns: He/Him;
 
 <a href="https://iagopferreira.github.io/portfolio-react/" target="_blank" style="margin: auto"><img src="https://img.shields.io/badge/Cheky my Portfolio-151B22.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
@@ -19,9 +19,11 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Chai-A30802?style=for-the-badge&logo=Chai&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+  <img src="https://img.shields.io/badge/Docker-013F8C?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">  
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/express_async_errors-C21325?style=for-the-badge&logo=express-async-errors&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -31,6 +33,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">  
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Mongoose-A62E2E?style=for-the-badge&logo=mongoose&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00006E?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -38,9 +41,11 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">  
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/RTL-C21325?style=for-the-badge&logo=testing-library&logoColor=white">
+  <img src="https://img.shields.io/badge/Sequelize-E5E5E5?style=for-the-badge&logo=sequelize&logoColor=51B1E7">
   <img src="https://img.shields.io/badge/Sinon-FFEBA3?style=for-the-badge&logo=Sinon&logoColor=white">
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
   <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-2F78C6?style=for-the-badge&logo=stylelint&logoColor=white">
   
 <h3>Tools</h3>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
