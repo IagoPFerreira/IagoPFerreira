@@ -3,7 +3,7 @@
 
 - 💡 &nbsp;I'm a FullStack development student at Trybe;
 - 🔭 I’m currently working on Trybe;
-- 🌱 I’m currently learning TypeScript;
+- 🌱 I’m currently learning NestJs;
 - 😄 Pronouns: He/Him;
 
 <a href="https://iagopferreira.github.io/portfolio-react/" target="_blank" style="margin: auto"><img src="https://img.shields.io/badge/Cheky my Portfolio-151B22.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
