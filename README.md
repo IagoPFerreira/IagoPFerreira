@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/express_async_errors-C21325?style=for-the-badge&logo=express-async-errors&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -35,6 +36,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Mongoose-A62E2E?style=for-the-badge&logo=mongoose&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00006E?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-C21325?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
@@ -48,6 +50,7 @@
   <img src="https://img.shields.io/badge/Typescript-2F78C6?style=for-the-badge&logo=stylelint&logoColor=white">
   
 <h3>Tools</h3>
+<img src="https://img.shields.io/badge/Clarizen-0052CD?style=for-the-badge&logo=clarizen&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
