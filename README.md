@@ -1,8 +1,9 @@
 
 ### Hi there, I'm Iago Ferreira 👋
 
+- 💡 I'm a FullStack developer;
 - 🔭 I’m currently working on Trybe;
-- 🌱 I’m currently learning NestJs;
+- 🌱 I’m currently learning Flask;
 - 😄 Pronouns: He/Him;
 
 <a href="https://iagopferreira.github.io/portfolio-react/" target="_blank" style="margin: auto"><img src="https://img.shields.io/badge/Cheky my Portfolio-151B22.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
