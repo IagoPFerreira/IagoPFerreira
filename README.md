@@ -1,7 +1,6 @@
 
 ### Hi there, I'm Iago Ferreira 👋
 
-- 💡 &nbsp;I'm a FullStack development student at Trybe;
 - 🔭 I’m currently working on Trybe;
 - 🌱 I’m currently learning NestJs;
 - 😄 Pronouns: He/Him;
