@@ -17,8 +17,12 @@
 <section><h2>Tech Stack</h2>
   <h3>Languages and Frameworks</h3>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Beautiful_Soup-000000?style=for-the-badge&logo=beautiful-soup&logoColor=white">
   <img src="https://img.shields.io/badge/Chai-A30802?style=for-the-badge&logo=Chai&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+  <img src="https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-042616?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Django_Rest_Framework-042616?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-013F8C?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
@@ -30,7 +34,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">  
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -38,6 +42,8 @@
   <img src="https://img.shields.io/badge/MySQL-00006E?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-C21325?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Pymongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Pytest-009FE3?style=for-the-badge&logo=pytest&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">  
@@ -47,7 +53,8 @@
   <img src="https://img.shields.io/badge/Sinon-FFEBA3?style=for-the-badge&logo=Sinon&logoColor=white">
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
   <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
-  <img src="https://img.shields.io/badge/Typescript-2F78C6?style=for-the-badge&logo=stylelint&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-2F78C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Unittest-2F78C6?style=for-the-badge&logo=python&logoColor=ffdd54">
   
 <h3>Tools</h3>
 <img src="https://img.shields.io/badge/Clarizen-0052CD?style=for-the-badge&logo=clarizen&logoColor=white">
